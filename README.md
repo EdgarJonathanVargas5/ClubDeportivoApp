@@ -55,7 +55,7 @@ Para clonar y ejecutar este proyecto de forma local, seguí estos pasos:
 ### Pasos
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/TU_USUARIO/ClubDeportivoApp.git
+    git clone https://github.com/EdgarJonathanVargas5/ClubDeportivoApp.git
     cd ClubDeportivoApp
     ```
 
